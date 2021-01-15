@@ -11,4 +11,4 @@ transition: zoom
 
 - Programming paradigms
 
-- How algorithms can read, translate, and execute code
+- Algorithms that read, translate, and execute code
