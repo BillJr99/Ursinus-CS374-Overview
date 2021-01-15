@@ -1,7 +1,7 @@
 ---
 info:
-  coursenum: "CS173"
-  title: "Intro to Computer Science"
+  coursenum: "CS374"
+  title: "Principles of Programming Languages"
   instructor: "Bill Mongan"
 ---
 
