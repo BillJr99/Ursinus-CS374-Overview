@@ -4,7 +4,7 @@ transition: zoom
 
 ## What this Course is About
 
-```scheme
+```
 (define square
   (lambda(n)
     (* n n)
@@ -14,4 +14,4 @@ transition: zoom
 (square 5)
 ```
 
-How about now?
+- How about now?

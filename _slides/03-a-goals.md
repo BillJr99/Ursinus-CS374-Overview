@@ -4,7 +4,7 @@ transition: zoom
 
 ## What this Course is About
 
-```c
+```
 int main(void) {
     int y = 5;
     int y2 = y * y;
@@ -12,4 +12,4 @@ int main(void) {
 }
 ```
 
-What does this program do?  How did you know what a "statement" is?
+- What does this program do?  How did you know what a "statement" is?
