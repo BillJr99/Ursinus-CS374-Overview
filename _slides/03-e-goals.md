@@ -5,7 +5,6 @@ transition: zoom
 ## What this Course is About
 
 
-<p class="fragment">
 ```asm
 00100000000010100000000000000101 # li t2 5
 10101111110010100000000000000000 # sw
@@ -14,4 +13,3 @@ transition: zoom
 00000000000000000101000000010010 # mflo t2
 10101111110010100000000000000100 # sw 4(fp)
 ```
-</p>

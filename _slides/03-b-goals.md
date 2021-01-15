@@ -4,7 +4,6 @@ transition: zoom
 
 ## What this Course is About
 
-<p class="fragment">
 ```scheme
 (define square
   (lambda(n)
@@ -16,4 +15,3 @@ transition: zoom
 ```
 
 How about now?
-</p>

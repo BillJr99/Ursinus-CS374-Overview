@@ -4,7 +4,6 @@ transition: zoom
 
 ## What this Course is About
 
-<p class="fragment">
 ```asm
 li	$2,5
 sw	$2,0($fp)
@@ -14,4 +13,3 @@ sw	$2,4($fp)
 ```
 
 How about this?  What's different about this version?
-</p>

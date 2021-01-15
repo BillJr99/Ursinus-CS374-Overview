@@ -4,7 +4,6 @@ transition: zoom
 
 ## What this Course is About
 
-<p class="fragment">
 ```c
 int main(void) {
     int y = 5;
@@ -14,4 +13,3 @@ int main(void) {
 ```
 
 What does this program do?  How did you know what a "statement" is?
-</p>
