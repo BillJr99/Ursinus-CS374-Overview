@@ -4,7 +4,7 @@ transition: zoom
 
 ## What this Course is About
 
-- In this class, we will explore the evolution of programming languages from assembly language to intermediate languagues to our favorite high level languages.
+- The evolution of programming languages from assembly language to intermediate languagues to our favorite high level languages.
 
 - We will explore the development of our modern conveniences like conditionals and loops.
 
